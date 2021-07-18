@@ -1,0 +1,30 @@
+:root {
+  --beige-light: #f2eadf;
+  --purple-rocks: #4a00e0;
+  --yellow-high: #fcff5c;
+  --grey-light: #4d4d4d;
+  --grey-hard: #1a1a1a;
+  --blue-hard: #000942;
+  --caquita: tomato;
+  --size300: 300;
+  --size600: 600;
+  --size800: 800;
+  --font-Monserrat: "Montserrat", sans-serif;
+  --font-Archivo: "Archivo Black", sans-serif;
+}
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: purple;
+}
+
+html{
+  font-size: 62.5%;
+}
+
